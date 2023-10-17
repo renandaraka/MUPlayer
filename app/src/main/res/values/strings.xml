@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MUPlayer</string>
+    <string name="profile">Profile</string>
+    <string name="player_name">Player Name</string>
+    <string name="description">Description</string>
+    <string name="detail">Detail</string>
+    <string name="player_detail">Player Detail :</string>
+    <string name="description_detail">Description Detail :</string>
+    <string name="player_overall">Player Overall</string>
+</resources>
